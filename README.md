@@ -46,28 +46,26 @@ aws-cicd-github-actions/
 ## 📸 Project Screenshots
 
 ### Website
+<img width="1919" height="960" alt="website-homepage " src="https://github.com/user-attachments/assets/0f56ded2-06e2-41b0-9b4f-f40653a9f751" />
 
-![Website](screenshots/website-homepage.png)
 
 ---
 
 ### GitHub Actions Success
 
-![GitHub Actions](screenshots/github-actions-success.png)
+<img width="1919" height="809" alt="github-actions-success" src="https://github.com/user-attachments/assets/16123cb3-e8b6-4fa4-90f4-25c8807a466d" />
 
----
 
 ### EC2 Instance
 
-![EC2](screenshots/ec2-instance.png)
-
----
+<img width="1919" height="975" alt="ec2-instance" src="https://github.com/user-attachments/assets/f5207be5-49f5-4d53-9f4e-3326a68c7bf5" />
 
 ## 🚀 Deployment
 
 Deployment is fully automated using GitHub Actions.
 
 Every push to the **main** branch triggers the deployment workflow automatically.
+
 
 ---
 
